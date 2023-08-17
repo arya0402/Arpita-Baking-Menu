@@ -10,3 +10,8 @@
 #body {
     background-color: tan;
 }
+
+#btn {
+    background-color: beige;
+    color: rgb(255, 130, 149);
+}
