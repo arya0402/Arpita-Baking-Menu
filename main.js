@@ -15,7 +15,7 @@
     }
 
     function f_hcb() {
-        window.location.replace("cakes.html");
+        window.location.replace("hcb.html");
     }
 
     function back() {
